@@ -9,7 +9,7 @@ The research and data file provided holds data of 153 individuals and their:
 -	Demographic details
 -	Belly button scrubbing frequency
 -	Belly button biological “footprint”
--	
+
 ### Results
 Raw data from the JavaScript array is now presented in a dashboard with a pull down menu to allow the participant and users to see the data.  They can 
 do a deep dive into their own results or compare to others participants. The dashboard can be found at the link that follows.  Please try it on your own.   
